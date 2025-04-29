@@ -160,10 +160,6 @@
   color: #000;
 }
 
-.link:visited {
-  color: var(--text-color);
-}
-
 .menu-link:visited {
   color: #000;
 }
